@@ -1,4 +1,4 @@
-##AN ANALYSIS OF LAST FIVE SUMMER OLYMPICS##
+# AN ANALYSIS OF LAST FIVE SUMMER OLYMPICS
 
 This is an infographic report on last five summer olympics. Data used in this infographic report has been downloaded from Kaggle. 
 Though the dataset contains past 120 years of historical data on Olympics including both summer and winter Olympics ever held, 
